@@ -92,4 +92,4 @@ Access in a web browser https://example.com. Enter username and password of the 
 And observe this:
 
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+
