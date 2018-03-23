@@ -77,6 +77,11 @@ sudo passwd your_username
 sudo smbpasswd -a your_username
 ```
 You'll be prompted to enter your password twice at this point.
+
+And then restart the Samba daemon again.
+```
+sudo /etc/init.d/samba restart
+```
 14. To test the network shares.
 ```
 cd /media/USBHDD1
