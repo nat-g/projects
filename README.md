@@ -1,1 +1,1 @@
-# Some random projects I've attempted 
+# Some random projects that I've done.
